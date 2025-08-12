@@ -1,0 +1,4 @@
+flask>=2.0
+faster-whisper>=0.8.0
+soundfile>=0.10.3.post1
+ffmpeg-python>=0.2.0

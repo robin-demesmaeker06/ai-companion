@@ -1,0 +1,5 @@
+Flask>=2.0
+TTS>=0.13.0        # coqui-ai/TTS Python package (version may vary)
+numpy
+soundfile
+aeneas==1.1.3      # alignment toolkit; install is a bit involved on some OS
